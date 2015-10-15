@@ -1,6 +1,8 @@
 V-REP ROS plugin
 ========
 
+*2015-10-15 upload video tutorial. https://youtu.be/3Ml0N8-iCwU
+
 Vrep ROS plugin with customized commands.
 Used for KUKA challenge. 
 
